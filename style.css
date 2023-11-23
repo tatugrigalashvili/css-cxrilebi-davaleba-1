@@ -1,0 +1,50 @@
+table{
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+    margin-left: 141px;
+}
+.ID{
+    width: 72px;
+}
+.title{
+    width: 444px;
+    text-align: start;
+}
+.created{
+    width: 276px;
+}
+.action{
+    width: 251px;
+}
+td{
+    width: 72px;
+    border: 1px solid #DADADA;
+}
+div{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    text-align: center;
+}
+
+th{
+    background-color: #F9F9F9;
+    border: 1px solid #DADADA;
+}
+tr{
+    width: 444px;
+    height: 57px;
+}
+.date{
+    color: #FF0000;
+    text-align: center;
+}
+h2{
+    margin-left: 141px;
+}
+.text{
+    margin-left: 235px;
+}
+.number{
+    text-align: center;
+}
