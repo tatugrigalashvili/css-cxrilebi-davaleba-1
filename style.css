@@ -20,10 +20,7 @@ td{
     width: 72px;
     border: 1px solid #DADADA;
 }
-div{
-    background-color: #FFD43A;
-    width: 115px;
-    height: 36px;
+.edit{
     text-align: center;
 }
 
@@ -43,8 +40,14 @@ h2{
     margin-left: 141px;
 }
 .text{
-    margin-left: 235px;
+    margin-left: 15px;
 }
 .number{
     text-align: center;
+}
+button{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    
 }
