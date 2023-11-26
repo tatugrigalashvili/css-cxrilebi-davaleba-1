@@ -22,6 +22,8 @@ td{
 }
 .edit{
     text-align: center;
+    outline: none;
+    
 }
 
 th{
@@ -49,5 +51,6 @@ button{
     background-color: #FFD43A;
     width: 115px;
     height: 36px;
+    border: none;
     
 }
